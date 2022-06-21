@@ -4,7 +4,7 @@ Hello 👋💻
 Hi, I'm Francisco! I'm a fullstack developer who is passionate about making functional and good looking webs.
 ```
 
-```
+```js
   const francisco = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
