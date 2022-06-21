@@ -1,9 +1,8 @@
 
 
 ### Hi 👋💻, I'm Francisco!
-![me](https://media-exp2.licdn.com/dms/image/C4D16AQFuouyQ1nUJFQ/profile-displaybackgroundimage-shrink_350_1400/0/1655761434345?e=1661385600&v=beta&t=fVQBBTCFV_Jy02N9rQ_gp-Sxd9KwJJHk2Cz6TsRNPg4)
 I'm a fullstack developer who is passionate about making functional and good looking webs.
-
+![me](https://media-exp2.licdn.com/dms/image/C4D16AQFuouyQ1nUJFQ/profile-displaybackgroundimage-shrink_350_1400/0/1655761434345?e=1661385600&v=beta&t=fVQBBTCFV_Jy02N9rQ_gp-Sxd9KwJJHk2Cz6TsRNPg4)
 
 ```js
   const francisco = {
@@ -19,8 +18,8 @@ I'm a fullstack developer who is passionate about making functional and good loo
     }
 };
 ```
-Find me around the web 🌎:
-- [Web](https://francisco-gimenez-portfolio.netlify.app/) ⭐️
+### Find me around the web 🌎:
+- [Web](https://francisco-gimenez-portfolio.netlify.app/) ⚡
 - [LinkedIn](https://www.linkedin.com/in/francisco-gimenez-5419b3218/) ⭐️
 
 
@@ -36,5 +35,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
