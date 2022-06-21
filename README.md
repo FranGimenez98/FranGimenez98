@@ -22,7 +22,9 @@ I'm a fullstack developer who is passionate about making functional and good loo
 - [Web](https://francisco-gimenez-portfolio.netlify.app/) ⚡
 - [LinkedIn](https://www.linkedin.com/in/francisco-gimenez-5419b3218/) ⭐️
 
-
+### My Projects
+- [Doggies App](https://pern-doggies-app.netlify.app/)
+- [Movies App](https://infallible-golick-51fe61.netlify.app/)
 <!--
 **FranGimenez98/FranGimenez98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
