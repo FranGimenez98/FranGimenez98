@@ -10,7 +10,7 @@ Hi, I'm Francisco! I'm a fullstack developer who is passionate about making func
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
-            js: ["React","Redux"],
+            js: ["React","Redux", "NextJS"],
             css: ["Styled-components", "Css", "Tailwind"]
         },
         backEnd: ["NodeJS", "Express"],
