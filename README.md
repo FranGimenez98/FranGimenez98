@@ -7,7 +7,6 @@ I'm a fullstack developer who is passionate about making functional and good loo
 
 ```js
   const francisco = {
-    pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
@@ -15,7 +14,7 @@ I'm a fullstack developer who is passionate about making functional and good loo
             css: ["Styled-components", "Css", "Tailwind"]
         },
         backEnd: ["NodeJS", "Express"],
-        databases: ["PostgreSql", "MongoDB"],
+        databases: ["PostgreSql", "MongoDB", "Prisma],
     }
 };
 ```
